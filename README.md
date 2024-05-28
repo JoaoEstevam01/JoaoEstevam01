@@ -15,7 +15,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://img.freepik.com/vetores-gratis/ilustrado-o-conceito-de-atividade-hacker_23-2148534299.jpg?t=st=1716489980~exp=1716493580~hmac=587682e104483932d0307baefeed8a96a83628b66c7c07713285b42fa4d1f9fd&w=826" min-width="250px" max-width="250px" width="250px" align="right" alt="pc-freepik">
+<img src="https://img.freepik.com/vetores-gratis/ilustrado-o-conceito-de-atividade-hacker_23-2148534299.jpg?t=st=1716489980~exp=1716493580~hmac=587682e104483932d0307baefeed8a96a83628b66c7c07713285b42fa4d1f9fd&w=826" min-width="150px" max-width="150px" width="150px" align="right" alt="pc-freepik">
 
 #### Secondary Stack:
 
